@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: com.test.SimpleAgent
+Agent-Class: com.test.SimpleAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AgentTest/AgentTest.iml" filepath="$PROJECT_DIR$/AgentTest/AgentTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AttachTest/AttachTest.iml" filepath="$PROJECT_DIR$/AttachTest/AttachTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaTest/JavaTest.iml" filepath="$PROJECT_DIR$/JavaTest/JavaTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="samples-sprhib" />
+        <module name="samples-spring" />
+        <module name="samples-quickstart" />
+        <module name="shiro-tools-hasher" />
+        <module name="shiro-core" />
+        <module name="shiro-all" />
+        <module name="samples-spring-client" />
+        <module name="shiro-guice" />
+        <module name="shiro-aspectj" />
+        <module name="shiro-quartz" />
+        <module name="samples-web" />
+        <module name="shiro-spring" />
+        <module name="shiro-ehcache" />
+        <module name="shiro-cas" />
+        <module name="shiro-web" />
+        <module name="samples-aspectj" />
+        <module name="ShiroExp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="samples-aspectj" target="1.6" />
+      <module name="samples-quickstart" target="1.6" />
+      <module name="samples-sprhib" target="1.6" />
+      <module name="samples-spring" target="1.6" />
+      <module name="samples-spring-client" target="1.6" />
+      <module name="samples-web" target="1.6" />
+      <module name="shiro-all" target="1.6" />
+      <module name="shiro-aspectj" target="1.6" />
+      <module name="shiro-cas" target="1.6" />
+      <module name="shiro-core" target="1.6" />
+      <module name="shiro-ehcache" target="1.6" />
+      <module name="shiro-features" target="1.6" />
+      <module name="shiro-guice" target="1.6" />
+      <module name="shiro-quartz" target="1.6" />
+      <module name="shiro-root" target="1.6" />
+      <module name="shiro-samples" target="1.6" />
+      <module name="shiro-spring" target="1.6" />
+      <module name="shiro-support" target="1.6" />
+      <module name="shiro-tools" target="1.6" />
+      <module name="shiro-tools-hasher" target="1.6" />
+      <module name="shiro-web" target="1.6" />
+      <module name="ShiroExp" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

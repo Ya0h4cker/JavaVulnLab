@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EvilAgent/EvilAgent.iml" filepath="$PROJECT_DIR$/EvilAgent/EvilAgent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemShell/MemShell.iml" filepath="$PROJECT_DIR$/MemShell/MemShell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VulnWeb/VulnWeb.iml" filepath="$PROJECT_DIR$/VulnWeb/VulnWeb.iml" />
+    </modules>
+  </component>
+</project>

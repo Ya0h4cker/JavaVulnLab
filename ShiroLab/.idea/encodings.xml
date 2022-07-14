@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Shiro/all/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/all/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/aspectj/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/aspectj/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/spring-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/spring-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/spring-hibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/spring-hibernate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/samples/web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/aspectj/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/aspectj/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/cas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/cas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/ehcache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/ehcache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/features/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/features/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/guice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/guice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/support/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/tools/hasher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/tools/hasher/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/tools/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shiro/web/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
